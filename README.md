@@ -1,8 +1,7 @@
-<img src="https://cdn.dribbble.com/users/24078/screenshots/1316755/gorilla3.jpg" title="GCOX"></a>
-
+logo
 # NBA
 
-## Order of Code
+### Order of Execution
 
 > In order to recreate the visualizations seen here, it's important that one re-runs the code in the correct order.
 > The 3 webscraping notebooks pull the majority of our data and take approximately 4 minutes 15 seconds each to run.

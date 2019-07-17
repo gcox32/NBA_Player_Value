@@ -1,4 +1,5 @@
-logo
+<img src="assets/brand logo.png" width="100" height="100"></a>
+
 # NBA
 
 ### Order of Execution

@@ -25,46 +25,46 @@ To list out every feature would be both tedious and overlooked 99 times out of 1
 
 If you don't plan on just zooming past and genuinely need a reference, here are the advanced stats in particular:
 
-**PER** -- Player Efficiency Rating
-A measure of per-minute production standardized such that the league average is 15.
-**TS%** -- True Shooting Percentage
-A measure of shooting efficiency that takes into account 2-point field goals, 3-point field goals, and free throws.
-**3PAr** -- 3-Point Attempt Rate
-Percentage of FG Attempts from 3-Point Range
-**FTr** -- Free Throw Attempt Rate
-Number of FT Attempts Per FG Attempt
-**ORB%** -- Offensive Rebound Percentage
-An estimate of the percentage of available offensive rebounds a player grabbed while he was on the floor.
-**DRB%** -- Defensive Rebound Percentage
-An estimate of the percentage of available defensive rebounds a player grabbed while he was on the floor.
-**TRB%** -- Total Rebound Percentage
-An estimate of the percentage of available rebounds a player grabbed while he was on the floor.
-**AST%** -- Assist Percentage
-An estimate of the percentage of teammate field goals a player assisted while he was on the floor.
-**STL%** -- Steal Percentage
-An estimate of the percentage of opponent possessions that end with a steal by the player while he was on the floor.
-**BLK%** -- Block Percentage
-An estimate of the percentage of opponent two-point field goal attempts blocked by the player while he was on the floor.
-**TOV%** -- Turnover Percentage
-An estimate of turnovers committed per 100 plays.
-**USG%** -- Usage Percentage
-An estimate of the percentage of team plays used by a player while he was on the floor.
-**OWS** -- Offensive Win Shares
-An estimate of the number of wins contributed by a player due to his offense.
-**DWS** -- Defensive Win Shares
-An estimate of the number of wins contributed by a player due to his defense.
-**WS** -- Win Shares
-An estimate of the number of wins contributed by a player.
-**WS/48** -- Win Shares Per 48 Minutes
-An estimate of the number of wins contributed by a player per 48 minutes (league average is approximately .100)
-**OBPM** -- Offensive Box Plus/Minus
-A box score estimate of the offensive points per 100 possessions a player contributed above a league-average player, translated to an average team.
-**DBPM** -- Defensive Box Plus/Minus
-A box score estimate of the defensive points per 100 possessions a player contributed above a league-average player, translated to an average team.
-**BPM** -- Box Plus/Minus
-A box score estimate of the points per 100 possessions a player contributed above a league-average player, translated to an average team.
-**VORP** -- Value over Replacement Player
-A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level (-2.0) player, translated to an average team and prorated to an 82-game season. Multiply by 2.70 to convert to wins over replacement.
+**PER** -- Player Efficiency Rating<br>
+A measure of per-minute production standardized such that the league average is 15.<br>
+**TS%** -- True Shooting Percentage<br>
+A measure of shooting efficiency that takes into account 2-point field goals, 3-point field goals, and free throws.<br>
+**3PAr** -- 3-Point Attempt Rate<br>
+Percentage of FG Attempts from 3-Point Range<br>
+**FTr** -- Free Throw Attempt Rate<br>
+Number of FT Attempts Per FG Attempt<br>
+**ORB%** -- Offensive Rebound Percentage<br>
+An estimate of the percentage of available offensive rebounds a player grabbed while he was on the floor.<br>
+**DRB%** -- Defensive Rebound Percentage<br>
+An estimate of the percentage of available defensive rebounds a player grabbed while he was on the floor.<br>
+**TRB%** -- Total Rebound Percentage<br>
+An estimate of the percentage of available rebounds a player grabbed while he was on the floor.<br>
+**AST%** -- Assist Percentage<br>
+An estimate of the percentage of teammate field goals a player assisted while he was on the floor.<br>
+**STL%** -- Steal Percentage<br>
+An estimate of the percentage of opponent possessions that end with a steal by the player while he was on the floor.<br>
+**BLK%** -- Block Percentage<br>
+An estimate of the percentage of opponent two-point field goal attempts blocked by the player while he was on the floor.<br>
+**TOV%** -- Turnover Percentage<br>
+An estimate of turnovers committed per 100 plays.<br>
+**USG%** -- Usage Percentage<br>
+An estimate of the percentage of team plays used by a player while he was on the floor.<br>
+**OWS** -- Offensive Win Shares<br>
+An estimate of the number of wins contributed by a player due to his offense.<br>
+**DWS** -- Defensive Win Shares<br>
+An estimate of the number of wins contributed by a player due to his defense.<br>
+**WS** -- Win Shares<br>
+An estimate of the number of wins contributed by a player.<br>
+**WS/48** -- Win Shares Per 48 Minutes<br>
+An estimate of the number of wins contributed by a player per 48 minutes (league average is approximately .100)<br>
+**OBPM** -- Offensive Box Plus/Minus<br>
+A box score estimate of the offensive points per 100 possessions a player contributed above a league-average player, translated to an average team.<br>
+**DBPM** -- Defensive Box Plus/Minus<br>
+A box score estimate of the defensive points per 100 possessions a player contributed above a league-average player, translated to an average team.<br>
+**BPM** -- Box Plus/Minus<br>
+A box score estimate of the points per 100 possessions a player contributed above a league-average player, translated to an average team.<br>
+**VORP** -- Value over Replacement Player<br>
+A box score estimate of the points per 100 TEAM possessions that a player contributed above a replacement-level (-2.0) player, translated to an average team and prorated to an 82-game season. Multiply by 2.70 to convert to wins over replacement.<br>
 
 ## Conclusions
 

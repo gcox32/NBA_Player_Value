@@ -17,7 +17,7 @@ First Player-level dataset: <a href="https://www.basketball-reference.com/league
 
 Second Player-level dataset: <a href="https://www.basketball-reference.com/leagues/NBA_2019_advanced.html" target="_blank">**Advanced Stats**</a>
 
-Third Player-level dataset: <a href="https://www.basketball-reference.com/players/c/cartevi01.html"target="_blank">**Shooting Stats (example)**</a>
+Third Player-level dataset: <a href="https://www.basketball-reference.com/players/c/cartevi01.html" target="_blank">**Shooting Stats (example)**</a>
 
 ## The Features
 
